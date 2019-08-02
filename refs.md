@@ -4,7 +4,7 @@ gene     | ref
 ABCC9    | https://doi.org/10.1016/B978-1-4557-1274-8.00002-6
 AKAP9    | None
 ANK2     | None
-BMP1     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322236/
+BMP1     | 10.1016/j.ajhg.2012.02.026
 CACNA1C  | 10.1038/s41598-018-32867-4
 CACNA2D1 | 10.1093/eurheartj/ehr076
 CACNB2   | 10.1161/CIRCULATIONAHA.106.668392
