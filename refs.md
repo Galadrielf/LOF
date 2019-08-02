@@ -2,18 +2,18 @@
 gene     | ref
 ---------|---------------------------------------------------
 ABCC9    | https://doi.org/10.1016/B978-1-4557-1274-8.00002-6
-AKAP9    | 10.1007/s11481-018-9781-x
-ANK2     |
-BMP1     |
-CACNA1C  |
-CACNA2D1 |
-CACNB2   |
-CALM1    |
-CASQ2    |
-CAV3     |
-COL1A1   |
-COL1A2   |
-CRTP     |
+AKAP9    | None
+ANK2     | None
+BMP1     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322236/
+CACNA1C  | 10.1038/s41598-018-32867-4
+CACNA2D1 | 10.1093/eurheartj/ehr076
+CACNB2   | 10.1161/CIRCULATIONAHA.106.668392
+CALM1    | https://doi.org/10.3389/fnmol.2018.00396
+CASQ2    | 10.1161/CIRCULATIONAHA.106.623793
+CAV3     | https://dx.doi.org/10.1038/ejhg.2009.103
+COL1A1   | https://doi.org/10.1093/hmg/11.19.2201
+COL1A2   | https://doi.org/10.1093/hmg/11.19.2201
+CRTAP    | 10.1002/humu.20799
 CTNNA3   |
 DES      |
 DPP6     |
